@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "3_month_course_2022"
+name = "TUKR_tool"
 version = "0.1.0"
 description = ""
-authors = ["TetraMiyazaki <kpasso1015@yahoo.co.jp>"]
+authors = ["SeitaroKusuku"]
 
 [tool.poetry.dependencies]
 python = "^3.9.11"
